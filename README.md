@@ -1,5 +1,3 @@
-﻿# calculadora
-
 # Calculadora Simples em JavaScript
 
 Este projeto foi desenvolvido como exercício da Aula 8 do curso Bolsa Futuro Digital, com o objetivo de praticar:
@@ -17,21 +15,22 @@ Este projeto foi desenvolvido como exercício da Aula 8 do curso Bolsa Futuro Di
 ## Como executar
 1. Certifique-se de ter o Node.js instalado.
 2. Instale a dependência `prompt-sync`:
-   ```bash
+   
    npm install prompt-sync
 Execute o programa:
 
-bash
-Copiar código
 node calculadora.js
+
 Exemplo de uso
-bash
-Copiar código
+
 Digite a operação (+,-,*,/) ou sair para encerrar: +
 Digite o primeiro numero: 5
 Digite o segundo numero: 3
 O Resultado de: 5+3 = 8
+
+
 Aprendizados
+
 Como capturar entrada de dados no terminal com prompt-sync
 
 Estruturar um programa que roda em loop até o usuário decidir parar
@@ -39,3 +38,4 @@ Estruturar um programa que roda em loop até o usuário decidir parar
 Usar switch para tratar diferentes operações matemáticas
 
 Tratar erros simples (como divisão por zero ou operação inválida)
+
