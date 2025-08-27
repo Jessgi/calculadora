@@ -1,5 +1,7 @@
 # Calculadora Simples em JavaScript
 
+https://github.com/user-attachments/assets/9aa91cd1-08e6-4711-ae3e-7eb687678adb
+
 Este projeto foi desenvolvido como exercício da Aula 8 do curso Bolsa Futuro Digital, com o objetivo de praticar:
 - Entrada de dados no terminal (`prompt-sync`)
 - Estruturas de repetição (`while`)
@@ -38,4 +40,5 @@ Estruturar um programa que roda em loop até o usuário decidir parar
 Usar switch para tratar diferentes operações matemáticas
 
 Tratar erros simples (como divisão por zero ou operação inválida)
+
 
